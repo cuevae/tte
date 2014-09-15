@@ -1,0 +1,15 @@
+{
+    "require":{
+        "slim/slim": "*",
+        "cuevae/collection-plus-json": "dev-master"
+    },
+    "require-dev":{
+        "phpspec/phpspec": "2.0.*@dev"
+    },
+    "config":{
+
+    },
+    "autoload":{
+
+    }
+}
